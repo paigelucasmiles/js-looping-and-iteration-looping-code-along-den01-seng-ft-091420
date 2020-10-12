@@ -9,3 +9,6 @@ function writeCards(names, event){
 
 writeCards(names, event)
 
+function countDown(number){
+  
+}
